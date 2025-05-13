@@ -1,1 +1,12 @@
-# class_attendance_ussd_php
+GROUP 1 MEMBERS:
+
+1. IGIRANEZA Nicolas          22RP00289
+2. UMURISA Esther             22RP00364
+3. BIMENYIMANA Joseph         22RP01632
+4. IZERE Emelyne              22RP01550
+5. MAHORO Adeline             22RP00311
+6. IKIREZI Domina             22RP01527
+7. DUSENGIMANA Jean D'Amour   22RP04934
+8. NSHIMIYIMANA Romeo         22RP00891
+9. MANIRAGUHA Eric            21RP1275
+10. RUGERO Emmanuel           21RP10558
